@@ -10,7 +10,7 @@ The first dataset is a csv file with 6 fields:
 - Season
 
 ---
-The second dataset is also a csv file with 8 fields:
+The second dataset is also a csv file with 10 fields:
 - Date
 - Episode
 - Title

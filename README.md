@@ -12,3 +12,4 @@ My personal repo to practice data skills
 [] Project_9: A project on datacamp: **The Android App Market on Google Play**
 [] Project_10: A project on datacamp: **Predicting Credit Card Approvals**
 [] Project_11: A project on datacamp: **Dr. Semmelweis and the Discovery of Handwashing** 
+

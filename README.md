@@ -27,4 +27,6 @@ My personal repo to practice data skills
 
 - [ ] Project_11: A project on datacamp: **Dr. Semmelweis and the Discovery of Handwashing**
 
+- [ ] Project_12: A project on datacamp: **Generating Keywords for Google Ads**
 
+- [ ] Project 13: Chatbot using Chatterbot
